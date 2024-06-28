@@ -1,0 +1,905 @@
+[
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "Connection",
+        "importPath": "sqlalchemy.engine",
+        "description": "sqlalchemy.engine",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.engine",
+        "documentation": {}
+    },
+    {
+        "label": "async_engine_from_config",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "workoutapi.contrib.repository.models",
+        "description": "workoutapi.contrib.repository.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.repository.models",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "importPath": "workoutapi.contrib.dependencies",
+        "description": "workoutapi.contrib.dependencies",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaIn",
+        "importPath": "workoutapi.atleta.schemas",
+        "description": "workoutapi.atleta.schemas",
+        "isExtraImport": true,
+        "detail": "workoutapi.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentosModel",
+        "importPath": "workoutapi.centro_treinamentos.models",
+        "description": "workoutapi.centro_treinamentos.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.centro_treinamentos.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentosModel",
+        "importPath": "workoutapi.centro_treinamentos.models",
+        "description": "workoutapi.centro_treinamentos.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.centro_treinamentos.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "importPath": "workoutapi.categorias.models",
+        "description": "workoutapi.categorias.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "importPath": "workoutapi.categorias.models",
+        "description": "workoutapi.categorias.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PositiveFloat",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchemas",
+        "importPath": "workoutapi.contrib.schemas",
+        "description": "workoutapi.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchemas",
+        "importPath": "workoutapi.contrib.schemas",
+        "description": "workoutapi.contrib.schemas",
+        "isExtraImport": true,
+        "detail": "workoutapi.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "workoutapi.configs.settings",
+        "description": "workoutapi.configs.settings",
+        "isExtraImport": true,
+        "detail": "workoutapi.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaModel",
+        "importPath": "workoutapi.atleta.models",
+        "description": "workoutapi.atleta.models",
+        "isExtraImport": true,
+        "detail": "workoutapi.atleta.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "workoutapi.configs.database",
+        "description": "workoutapi.configs.database",
+        "isExtraImport": true,
+        "detail": "workoutapi.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "api_rounter",
+        "importPath": "workoutapi.rounters",
+        "description": "workoutapi.rounters",
+        "isExtraImport": true,
+        "detail": "workoutapi.rounters",
+        "documentation": {}
+    },
+    {
+        "label": "rounter",
+        "importPath": "workoutapi.atleta.controller",
+        "description": "workoutapi.atleta.controller",
+        "isExtraImport": true,
+        "detail": "workoutapi.atleta.controller",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.83dfa911dd88_d_init_db",
+        "description": "alembic.versions.83dfa911dd88_d_init_db",
+        "peekOfCode": "def upgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('categoria',\n    sa.Column('pk_id', sa.Integer(), nullable=False),\n    sa.Column('nome', sa.String(length=10), nullable=False),\n    sa.Column('id', sa.UUID(), nullable=False),\n    sa.PrimaryKeyConstraint('pk_id'),\n    sa.UniqueConstraint('nome')\n    )\n    op.create_table('centro_treinamentos',",
+        "detail": "alembic.versions.83dfa911dd88_d_init_db",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "alembic.versions.83dfa911dd88_d_init_db",
+        "description": "alembic.versions.83dfa911dd88_d_init_db",
+        "peekOfCode": "def downgrade() -> None:\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('atleta')\n    op.drop_table('centro_treinamentos')\n    op.drop_table('categoria')\n    # ### end Alembic commands ###",
+        "detail": "alembic.versions.83dfa911dd88_d_init_db",
+        "documentation": {}
+    },
+    {
+        "label": "do_run_migrations",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def do_run_migrations(connection: Connection) -> None:\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\nasync def run_async_migrations() -> None:\n    connectable = async_engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # connectable = engine_from_config(\n    #     config.get_section(config.config_ini_section, {}),\n    #     prefix=\"sqlalchemy.\",\n    #     poolclass=pool.NullPool,\n    # )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = BaseModel.metadata",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = BaseModel.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef do_run_migrations(connection: Connection) -> None:\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\nasync def run_async_migrations() -> None:",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "asyncpg.env",
+        "description": "asyncpg.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "asyncpg.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "asyncpg.env",
+        "description": "asyncpg.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "asyncpg.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "asyncpg.env",
+        "description": "asyncpg.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\ntarget_metadata = None",
+        "detail": "asyncpg.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "asyncpg.env",
+        "description": "asyncpg.env",
+        "peekOfCode": "target_metadata = None\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "asyncpg.env",
+        "documentation": {}
+    },
+    {
+        "label": "rounter",
+        "kind": 5,
+        "importPath": "workoutapi.atleta.controller",
+        "description": "workoutapi.atleta.controller",
+        "peekOfCode": "rounter = APIRouter()\n@rounter.post(\n    path='/',\n    summary='cadastrar novo atleta',\n    status_code=status.HTTP_201_CREATED\n    )\nasync def post(db_session: DatabaseDependency, atleta_in:AtletaIn):\n    pass",
+        "detail": "workoutapi.atleta.controller",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaModel",
+        "kind": 6,
+        "importPath": "workoutapi.atleta.models",
+        "description": "workoutapi.atleta.models",
+        "peekOfCode": "class AtletaModel(BaseModel):\n    __tablename__ = \"atleta\"\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(50), unique=True, nullable=False)\n    cpf: Mapped[str] = mapped_column(String(11), nullable=False)\n    idade: Mapped[int] = mapped_column(Integer, nullable=False)\n    peso: Mapped[float] = mapped_column(Float, nullable=False)\n    altura: Mapped[float] = mapped_column(Float, nullable=False)\n    sexo: Mapped[str] = mapped_column(String(1), nullable=False)\n    created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default= datetime.utcnow)",
+        "detail": "workoutapi.atleta.models",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaIn",
+        "kind": 6,
+        "importPath": "workoutapi.atleta.schemas",
+        "description": "workoutapi.atleta.schemas",
+        "peekOfCode": "class AtletaIn(BaseSchemas):\n    nome: Annotated[\n        str, Field(description=\"Nome do Atleta\", examples=[\"Joao\"], max_length=50)\n    ]\n    cpf: Annotated[\n        str, Field(description=\"CPF do Atleta\", examples=[\"32143423342\"], max_length=11)\n    ]\n    idade: Annotated[int, Field(description=\"Idade do Atleta\", examples=[25])]\n    peso: Annotated[PositiveFloat, Field(description=\"Peso do Atleta\", examples=[79.0])]\n    altura: Annotated[",
+        "detail": "workoutapi.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AtletaOut",
+        "kind": 6,
+        "importPath": "workoutapi.atleta.schemas",
+        "description": "workoutapi.atleta.schemas",
+        "peekOfCode": "class AtletaOut(AtletaIn)",
+        "detail": "workoutapi.atleta.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriaModel",
+        "kind": 6,
+        "importPath": "workoutapi.categorias.models",
+        "description": "workoutapi.categorias.models",
+        "peekOfCode": "class CategoriaModel(BaseModel):\n    __tablename__ = \"categoria\"\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(10), unique=True, nullable=False)\n    alteta: Mapped[\"AtletaModel\"] = relationship(back_populates=\"categoria\")",
+        "detail": "workoutapi.categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "Categoria",
+        "kind": 6,
+        "importPath": "workoutapi.categorias.schemas",
+        "description": "workoutapi.categorias.schemas",
+        "peekOfCode": "class Categoria(BaseSchemas):\n    nome: Annotated[\n        str, Field(description=\"Nome da Categoria\", examples=[\"Natação\"], max_length=10)\n    ]",
+        "detail": "workoutapi.categorias.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentosModel",
+        "kind": 6,
+        "importPath": "workoutapi.centro_treinamentos.models",
+        "description": "workoutapi.centro_treinamentos.models",
+        "peekOfCode": "class CentroTreinamentosModel(BaseModel):\n    __tablename__ = \"centro_treinamentos\"\n    pk_id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    nome: Mapped[str] = mapped_column(String(10), unique=True, nullable=False)\n    endereco: Mapped[str] = mapped_column(String(60), nullable=False)\n    propietario: Mapped[str] = mapped_column(String(30), nullable=False)\n    atleta: Mapped[\"AtletaModel\"] = relationship(back_populates=\"centro_trinamentos\")",
+        "detail": "workoutapi.centro_treinamentos.models",
+        "documentation": {}
+    },
+    {
+        "label": "CentroTreinamentos",
+        "kind": 6,
+        "importPath": "workoutapi.centro_treinamentos.schemas",
+        "description": "workoutapi.centro_treinamentos.schemas",
+        "peekOfCode": "class CentroTreinamentos(BaseModel):\n    nome: Annotated[\n        str,\n        Field(\n            description=\"Nome do Centro de Treinamentos\",\n            examples=[\"CT BULLS\"],\n            max_length=20\n            )\n    ]\n    endereco: Annotated[",
+        "detail": "workoutapi.centro_treinamentos.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "workoutapi.configs.database",
+        "description": "workoutapi.configs.database",
+        "peekOfCode": "engine = create_async_engine(settings.DB_URL, echo=False)\nasync_session = sessionmaker(\n    bind=None, class_=AsyncSession, expire_on_commit=False\n)   \nasync def get_session() -> AsyncGenerator:\n    async with async_session as session:\n        yield session",
+        "detail": "workoutapi.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "workoutapi.configs.database",
+        "description": "workoutapi.configs.database",
+        "peekOfCode": "async_session = sessionmaker(\n    bind=None, class_=AsyncSession, expire_on_commit=False\n)   \nasync def get_session() -> AsyncGenerator:\n    async with async_session as session:\n        yield session",
+        "detail": "workoutapi.configs.database",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "workoutapi.configs.settings",
+        "description": "workoutapi.configs.settings",
+        "peekOfCode": "class Settings(BaseSettings):\n    DB_URL: str = Field(default='postgresql+asyncpg://workout:workout@localhost/workout')\nsettings = Settings()",
+        "detail": "workoutapi.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "workoutapi.configs.settings",
+        "description": "workoutapi.configs.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "workoutapi.configs.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseDependency",
+        "kind": 5,
+        "importPath": "workoutapi.contrib.dependencies",
+        "description": "workoutapi.contrib.dependencies",
+        "peekOfCode": "DatabaseDependency = Annotated[AsyncSession, Depends(get_session)]",
+        "detail": "workoutapi.contrib.dependencies",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "workoutapi.contrib.models",
+        "description": "workoutapi.contrib.models",
+        "peekOfCode": "class BaseModel(DeclarativeBase):\n    id: Mapped[UUID] = mapped_column(\n        PG_UUID(as_uuid=True), default=uuid4, nullable=False\n    )",
+        "detail": "workoutapi.contrib.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSchemas",
+        "kind": 6,
+        "importPath": "workoutapi.contrib.schemas",
+        "description": "workoutapi.contrib.schemas",
+        "peekOfCode": "class BaseSchemas(BaseModel):\n    class Config:\n        extra = \"forbid\"\n        from_atributes = True\nclass OutMixin(BaseModel)",
+        "detail": "workoutapi.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "OutMixin",
+        "kind": 6,
+        "importPath": "workoutapi.contrib.schemas",
+        "description": "workoutapi.contrib.schemas",
+        "peekOfCode": "class OutMixin(BaseModel)",
+        "detail": "workoutapi.contrib.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "workoutapi.main",
+        "description": "workoutapi.main",
+        "peekOfCode": "app = FastAPI(title='Projeto WorkoutAPI')\napp.include_router(api_rounter)",
+        "detail": "workoutapi.main",
+        "documentation": {}
+    },
+    {
+        "label": "api_rounter",
+        "kind": 5,
+        "importPath": "workoutapi.rounters",
+        "description": "workoutapi.rounters",
+        "peekOfCode": "api_rounter = APIRouter()\napi_rounter.include_router(atleta, prefix='/atletas', tags=['atletas'] )",
+        "detail": "workoutapi.rounters",
+        "documentation": {}
+    }
+]
